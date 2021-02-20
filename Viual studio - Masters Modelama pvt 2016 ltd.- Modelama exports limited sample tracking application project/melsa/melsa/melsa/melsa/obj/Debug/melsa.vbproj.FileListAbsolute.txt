@@ -1,0 +1,39 @@
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\bin\Debug\melsa.exe.config
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\bin\Debug\melsa.exe
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\bin\Debug\melsa.pdb
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\bin\Debug\melsa.xml
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.Form1.resources
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.Resources.resources
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.vbproj.GenerateResource.Cache
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.exe
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.xml
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.pdb
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.Form3.resources
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\obj\Debug\melsa.Form2.resources
+C:\Users\Suhrud Panigrahi\Desktop\melsa\melsa\melsa\bin\Debug\Database1.accdb
+F:\melsa\melsa\melsa\obj\Debug\melsa.Form1.resources
+F:\melsa\melsa\melsa\obj\Debug\melsa.Form2.resources
+F:\melsa\melsa\melsa\obj\Debug\melsa.Form3.resources
+F:\melsa\melsa\melsa\obj\Debug\melsa.Resources.resources
+F:\melsa\melsa\melsa\obj\Debug\melsa.vbproj.GenerateResource.Cache
+F:\melsa\melsa\melsa\obj\Debug\melsa.exe
+F:\melsa\melsa\melsa\obj\Debug\melsa.xml
+F:\melsa\melsa\melsa\obj\Debug\melsa.pdb
+F:\melsa\melsa\melsa\bin\Debug\melsa.exe.config
+E:\melsa\melsa\melsa\melsa\bin\Debug\melsa.exe.config
+E:\melsa\melsa\melsa\melsa\obj\Debug\melsa.exe
+E:\melsa\melsa\melsa\melsa\obj\Debug\melsa.xml
+E:\melsa\melsa\melsa\melsa\obj\Debug\melsa.pdb
+E:\apparel internship\melsa\melsa\melsa\melsa\bin\Debug\melsa.exe.config
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.exe
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.xml
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.pdb
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.Form1.resources
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.Form2.resources
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.Form3.resources
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.Resources.resources
+E:\apparel internship\melsa\melsa\melsa\melsa\obj\Debug\melsa.vbproj.GenerateResource.Cache
+E:\apparel internship\melsa\melsa\melsa\melsa\bin\Debug\Database1.accdb
+E:\apparel internship\melsa\melsa\melsa\melsa\bin\Debug\melsa.exe
+E:\apparel internship\melsa\melsa\melsa\melsa\bin\Debug\melsa.pdb
+E:\apparel internship\melsa\melsa\melsa\melsa\bin\Debug\melsa.xml
